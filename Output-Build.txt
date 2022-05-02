@@ -1,0 +1,17 @@
+﻿1>------ Build started: Project: finalP2, Configuration: Debug Win32 ------
+1>Record_Finder.c
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(53,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(54,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(80,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(81,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(105,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(106,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(134,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(135,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(151,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(152,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(168,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>\\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Record_Finder.c(169,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>finalP2.vcxproj -> \\Mac\Home\Desktop\New Folder\IPC144\Final Assessment\finalP2\Debug\finalP2.exe
+1>Done building project "finalP2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
